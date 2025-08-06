@@ -1,4 +1,4 @@
-# 100DaysOfCode-Day1
+# 100DaysOfCode
 
 # Day 1 – 100 Days of Code
 
