@@ -94,3 +94,65 @@
 ## ✅ DSA (Java):
 - Merge Sort
 - Sort By Absolute Difference
+
+# Day 12 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Citations
+- Count Inversions
+- Find Kth Rotation
+- Find Kth root of m
+- Peak Element
+- Reverse Pairs
+- Square Root
+
+## ✅Android:
+- Retrofit
+
+# Day 13 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Capactiy to ship packages
+- Koko eating bananas
+- Min days to make boquets
+- Smallest Divisor
+
+## ✅Android:
+- MVVM
+- Navigation Component
+
+# Day 14 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Aggressive Cows
+- Kth Missing pos no
+
+# Day 15 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Is Isomorphic
+- Largest Odd No in string
+- Longest common prefix
+- Reverse word in string
+
+# Day 16 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Median in sorted matrix
+- Min area to cover all 1s
+
+# Day 17 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Book allocation
+- Is anagram
+- Rotate string
+- Sort characters by freq
+
+## ✅Android
+- Notes App
+
+# Day 18 – 100 Days of Code
+
+## ✅Android
+- Notes App
