@@ -156,3 +156,63 @@
 
 ## ✅Android
 - Notes App
+
+# Day 19 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Find median sorted arrays
+- Painters Partition
+- Row with max 1s
+- Search 2d Matrix
+- Split Array Largest sum
+
+# Day 20 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Find Peak Element
+- Kth Element of Sorted Array
+- Max Nesting depth of Paranthesis
+- Remove Outer Paranthesis
+- Roman to Integer
+
+# Day 21 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Count Substring
+- Implement A to I
+
+# Day 22 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Max No of 1s
+- Sort matrix by diagonals
+
+## ✅Android
+- MVVM and Retrofit 
+
+# Day 23 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Add 2 Numbers
+- Segregate Even and Odds
+- Sort ll of 0s 1s 2s
+
+## ✅Android
+- Kotlin OOPS
+
+# Day 24 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Add 1 to LL
+- Palindrome LL
+- Remove Nth node from the end
+- Reverse List
+- Reverse List (Recursion)
+
+## ✅Android
+- MVVM and Retrofit
+
+# Day 25 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Middle of the LL 
