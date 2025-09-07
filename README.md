@@ -215,4 +215,48 @@
 # Day 25 – 100 Days of Code
 
 ## ✅ DSA (Java):
-- Middle of the LL 
+- Middle of the LL
+
+# Day 26 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Delete Middle node of Ll
+- Intersection of 2 LL
+- Length of Loop
+- Sort List
+
+# Day 27 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Flatening a LL
+
+# Day 28 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Reverse DLL
+- Rotate List
+
+# Day 29 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Find Closest
+- Reverse K Group
+- Reverse Nodes in K Group 
+- Rotate List Left
+
+# Day 30 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Make Integer 0
+- Rotate Matrix Anti Clock
+- Unique Paths in Grid GFG
+
+# Day 31 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Min Operations to Make array elements 0
+
+# Day 32 – 100 Days of Code
+
+## ✅ DSA (Java):
+- Find N unique no to sump upto 0
